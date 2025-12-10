@@ -6,7 +6,7 @@ EasyANOVA es una aplicación desarrollada en R y Shiny que permite realizar aná
 Basta con cargar un archivo de datos y seleccionar las variables de interés para obtener gráficos, estadísticos descriptivos y pruebas de comparación de medias listas para interpretar y reportar.
 
 ## Como ejecutar el programa
-1. Descarga e instala R v 4.0 en adelante
+1. Descarga e instala R versión 4.0 en adelante
 2. Descarga e instala Rstudio
 3. Descarga el archivo EasyANOVA.R en tu computadora
 4. Abre el archivo EasyANOVA.R, automaticamente se abrira en Rstudio
